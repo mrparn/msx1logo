@@ -24,7 +24,7 @@ This was done because the MSX logo is actually a bit irregular, and since resolu
 
 I used this prototype as reference for the [generator](https://github.com/mrparn/msx1logo/tree/master/generator). In the folder you can find both a binary MSX-BASIC file and a plain text version for easy reading on a PC. I used this generator to create binary data that would be loaded by the final proof of concept.
 
-In the final proof of concept, I load both the name and pattern tables, but generate the color tables in order to make it as small as possible. I'm sure it's possible to make it even smaller if assembly is used.
+In the final proof of concept, I load both the name and pattern tables, but generate the color tables in order to make it as small as possible in MSX-BASIC. I'm sure it's possible to make it even smaller if Assembly is used.
 
 ### Acknowledgements
 
